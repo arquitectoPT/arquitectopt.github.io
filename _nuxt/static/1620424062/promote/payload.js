@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/promote", {data:[{}],fetch:{},mutations:[]});

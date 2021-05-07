@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/explorers-dashboards", {data:[{}],fetch:{},mutations:[]});

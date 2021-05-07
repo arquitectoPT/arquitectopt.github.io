@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/what-is-bitcoin", {data:[{}],fetch:{},mutations:[]});

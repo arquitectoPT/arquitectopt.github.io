@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/spend-bitcoin", {data:[{}],fetch:{},mutations:[]});
